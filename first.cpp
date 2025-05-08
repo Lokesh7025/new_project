@@ -13,4 +13,5 @@ int main(){
         cout<<a(i)<<endl;
     }
     return 0;
+    cout<<"WHAT ARE YOU DOING"
 }
